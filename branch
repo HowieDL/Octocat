@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+a branch is a line of development in your project. Each time you make changes & commit, a bookmark is made. The default name given to a branch is master. You can create a new branch if you want to diverge into a new line, or 'reality' with your project, while a collaborator can continue along the master branch with both parallel 'realities' preserved.
